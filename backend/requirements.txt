@@ -1,0 +1,8 @@
+flask
+flask-pymongo<3.0.0
+flask-cors
+pymongo<4.0.0
+pyjwt
+dnspython
+werkzeug
+python-dotenv
